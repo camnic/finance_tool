@@ -1,0 +1,10 @@
+Ticker,Type,Quantity,Cost Basis,Purchase Date,Liquidity
+BTC,Crypto,1.5,40000,2020-01-01,High
+AAPL,Stock,400,100,2020-01-01,Medium
+NVDA,Stock,300,0,2023-07-01,Medium
+MSFT,Stock,75,150,2024-07-01,Medium
+AMZN,Stock,100,200,2023-01-01,Medium
+SPY,ETF,150,300,2024-07-01,Medium
+VOO,ETF,50,270,2022-07-01,Medium
+USD,Cash,10000,10000,,High
+USD,401K,70000,30000,,Low
